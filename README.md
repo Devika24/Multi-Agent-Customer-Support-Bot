@@ -1,4 +1,4 @@
-# 🛟 Multi-Agent Customer Support Bot (CrewAI + Ollama)
+# Multi-Agent Customer Support Bot (CrewAI + Ollama)
 
 This repo contains a deployable **multi-agent customer support assistant** built with:
 
