@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are your support hours?",
+    "answer": "Our support team is available Monday to Friday from 9am to 6pm CST, excluding major holidays."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page, enter your registered email, and follow the link sent to your inbox to set a new password."
+  },
+  {
+    "question": "Do you offer refunds?",
+    "answer": "Yes, we offer refunds within 30 days of purchase for eligible plans. Contact support with your order ID to initiate a refund request."
+  },
+  {
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept major credit cards, debit cards, and PayPal. Invoices for enterprise customers can be paid via bank transfer."
+  },
+  {
+    "question": "Where can I see my invoices?",
+    "answer": "Go to 'Account Settings' → 'Billing' → 'Invoices' to download or view all your past invoices."
+  }
+]
